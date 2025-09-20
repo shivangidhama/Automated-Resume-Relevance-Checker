@@ -1,0 +1,23 @@
+# Core
+streamlit>=1.20.0
+
+# Data handling
+pandas>=1.5.0
+numpy>=1.20.0
+
+# File processing
+PyPDF2>=3.0.0
+docx2txt>=0.8
+
+# NLP & embeddings
+spacy>=3.5.0
+sentence-transformers>=2.2.0
+transformers>=4.40.0
+
+# Machine learning
+scikit-learn>=1.2.0
+tensorflow>=2.20.0
+tf-keras>=2.20.1
+
+# Visualization
+plotly>=5.10.0
